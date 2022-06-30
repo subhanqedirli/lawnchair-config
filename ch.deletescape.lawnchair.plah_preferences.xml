@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="pref_prediction_count_com.instagram.android/com.instagram.android.activity.MainTabActivity#0" value="4" />
+    <boolean name="pref_dockShadow" value="false" />
+    <boolean name="pref_search_hidden_apps" value="false" />
+    <boolean name="launcher.apps_view_shown" value="true" />
+    <float name="pref_hotseatIconSize" value="-1.0" />
+    <string name="pref_allAppsLabelColorResolver">ch.deletescape.lawnchair.colors.WallpaperMainColorResolver</string>
+    <string name="pref_drawerFlowerpot">{&quot;version&quot;:1,&quot;tabs&quot;:[{&quot;color&quot;:&quot;null&quot;,&quot;type&quot;:3},{&quot;color&quot;:&quot;null&quot;,&quot;type&quot;:0},{&quot;color&quot;:&quot;null&quot;,&quot;type&quot;:1},{&quot;color&quot;:&quot;null&quot;,&quot;potName&quot;:&quot;BUSINESS_AND_PRODUCTIVITY&quot;,&quot;type&quot;:4,&quot;title&quot;:&quot;Busıness And Productıvıty&quot;},{&quot;color&quot;:&quot;null&quot;,&quot;potName&quot;:&quot;COMMUNICATION&quot;,&quot;type&quot;:4,&quot;title&quot;:&quot;Communıcatıon&quot;},{&quot;color&quot;:&quot;null&quot;,&quot;potName&quot;:&quot;ENTERTAINMENT&quot;,&quot;type&quot;:4,&quot;title&quot;:&quot;Entertaınment&quot;},{&quot;color&quot;:&quot;null&quot;,&quot;potName&quot;:&quot;FOOD_AND_DRINK&quot;,&quot;type&quot;:4,&quot;title&quot;:&quot;Food And Drınk&quot;},{&quot;color&quot;:&quot;null&quot;,&quot;potName&quot;:&quot;GAME&quot;,&quot;type&quot;:4,&quot;title&quot;:&quot;Oyunlar&quot;},{&quot;color&quot;:&quot;null&quot;,&quot;potName&quot;:&quot;HEALTH_AND_FITNESS&quot;,&quot;type&quot;:4,&quot;title&quot;:&quot;Health And Fıtness&quot;},{&quot;color&quot;:&quot;null&quot;,&quot;potName&quot;:&quot;KNOWLEDGE_AND_REFERENCE&quot;,&quot;type&quot;:4,&quot;title&quot;:&quot;Bilgi ve Referans&quot;},{&quot;color&quot;:&quot;null&quot;,&quot;potName&quot;:&quot;LIFESTYLE&quot;,&quot;type&quot;:4,&quot;title&quot;:&quot;Lıfestyle&quot;},{&quot;color&quot;:&quot;null&quot;,&quot;potName&quot;:&quot;MUSIC&quot;,&quot;type&quot;:4,&quot;title&quot;:&quot;Musıc&quot;},{&quot;color&quot;:&quot;null&quot;,&quot;potName&quot;:&quot;NEWS&quot;,&quot;type&quot;:4,&quot;title&quot;:&quot;Haber&quot;},{&quot;color&quot;:&quot;null&quot;,&quot;potName&quot;:&quot;PERSONALIZATION&quot;,&quot;type&quot;:4,&quot;title&quot;:&quot;Personalızatıon&quot;},{&quot;color&quot;:&quot;null&quot;,&quot;potName&quot;:&quot;PHOTOGRAPHY&quot;,&quot;type&quot;:4,&quot;title&quot;:&quot;Fotoğrafçılık&quot;},{&quot;color&quot;:&quot;null&quot;,&quot;potName&quot;:&quot;TOOLS&quot;,&quot;type&quot;:4,&quot;title&quot;:&quot;Araçlar&quot;},{&quot;color&quot;:&quot;null&quot;,&quot;potName&quot;:&quot;TRAVEL_AND_NAVIGATION&quot;,&quot;type&quot;:4,&quot;title&quot;:&quot;Travel And Navıgatıon&quot;}]}</string>
+    <boolean name="pref_add_icon_to_home_initialized" value="true" />
+    <boolean name="pref_dockGradient" value="false" />
+    <boolean name="pref_hotseatShowArrow" value="false" />
+    <boolean name="pref_showDevOptions" value="false" />
+    <boolean name="pref_dockColoredGoogle" value="true" />
+    <boolean name="pref_enable_minus_one" value="false" />
+    <string name="pref_animationType"></string>
+    <boolean name="pref_hideAllAppsAppLabels" value="false" />
+    <string name="pref_feedTheme">1</string>
+    <int name="pref_prediction_count_com.zombodroid.MemeGenerator/com.zombodroid.memegen6source.SplashActivity#0" value="4" />
+    <boolean name="pref_show_suggested_actions" value="true" />
+    <string name="pref_gesture_double_tap">{&quot;class&quot;:&quot;ch.deletescape.lawnchair.gestures.handlers.OpenDrawerGestureHandler&quot;}</string>
+    <boolean name="pref_separateWorkApps" value="true" />
+    <int name="pref_prediction_count_com.gallery20/com.gallery20.activities.GalleryActivity#0" value="5" />
+    <boolean name="pref_smartspace_time_above" value="false" />
+    <int name="pref_prediction_count_com.twitter.android/com.twitter.android.StartActivity#0" value="4" />
+    <string name="pref_smartspace_widget_provider">ch.deletescape.lawnchair.smartspace.BlankDataProvider</string>
+    <int name="pref_prediction_count_idm.internet.download.manager/acr.browser.lightning.activity.MainActivityLauncher#0" value="13" />
+    <boolean name="pref_smartspace_time_24_h" value="false" />
+    <boolean name="pref_allowRotation" value="false" />
+    <float name="pref_hotseatCustomOpacity" value="1.0" />
+    <boolean name="pref_allAppsSearch" value="true" />
+    <boolean name="pref_hideDockLabels" value="true" />
+    <boolean name="pref_sesame_show_shortcuts" value="true" />
+    <boolean name="pref_bubbleSearchStyle" value="false" />
+    <float name="pref_dockScale" value="-1.0" />
+    <boolean name="pref_show_predictions" value="false" />
+    <boolean name="pref_hideStatusBar" value="false" />
+    <string name="pref_dockPreset">0</string>
+    <boolean name="pref_use_pill_qsb" value="false" />
+    <boolean name="pref_add_icon_to_home" value="true" />
+    <int name="migration_src_hotseat_count" value="5" />
+    <boolean name="pref_dockSearchBar" value="false" />
+    <boolean name="pref_hideAppLabels" value="false" />
+    <boolean name="pref_restoreSuccess" value="true" />
+    <string name="pref_smartspace_event_providers">[&quot;ch.deletescape.lawnchair.smartspace.BatteryStatusProvider&quot;,&quot;ch.deletescape.lawnchair.smartspace.PersonalityProvider&quot;]</string>
+    <float name="pref_allAppsIconSize" value="0.7" />
+    <boolean name="pref_sesame_sync_icon_pack" value="true" />
+    <set name="pref_prediction_set">
+        <string>com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity#0</string>
+        <string>com.android.chrome/com.google.android.apps.chrome.Main#0</string>
+        <string>com.zombodroid.MemeGenerator/com.zombodroid.memegen6source.SplashActivity#0</string>
+        <string>com.twitter.android/com.twitter.android.StartActivity#0</string>
+        <string>ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity#0</string>
+        <string>idm.internet.download.manager/acr.browser.lightning.activity.MainActivityLauncher#0</string>
+        <string>com.instagram.android/com.instagram.android.activity.MainTabActivity#0</string>
+        <string>com.gallery20/com.gallery20.activities.GalleryActivity#0</string>
+        <string>com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity#0</string>
+        <string>com.whatsapp/com.whatsapp.Main#0</string>
+        <string>com.transsion.filemanagerx/com.transsion.filemanagerx.MainFilemanagerActivity#0</string>
+        <string>org.telegram.messenger/org.telegram.messenger.DefaultIcon#0</string>
+    </set>
+    <string name="pref_weatherApiKey">17a6438b1d63d5b05f7039e7cb52cde7</string>
+    <boolean name="pref_allAppsGoogleSearch" value="true" />
+    <int name="pref_prediction_count_ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity#0" value="18" />
+    <int name="smartspace_widget_id" value="4" />
+    <int name="pref_prediction_count_org.telegram.messenger/org.telegram.messenger.DefaultIcon#0" value="31" />
+    <boolean name="pref_fullWidthWidgets" value="true" />
+    <string name="pref_weather_city">Lucerne, CH</string>
+    <boolean name="pref_enableBlur" value="false" />
+    <boolean name="pref_smartspace_date" value="true" />
+    <boolean name="pref_lockDesktop" value="false" />
+    <boolean name="pref_showTopShadow" value="true" />
+    <string name="migration_src_workspace_size">5,5</string>
+    <boolean name="pref_smartspace_time" value="false" />
+    <int name="pref_prediction_count_com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity#0" value="49" />
+    <boolean name="opa_assistant" value="true" />
+    <string name="pref_globalSearchProvider">ch.deletescape.lawnchair.globalsearch.providers.AppSearchSearchProvider</string>
+    <float name="pref_allAppsOpacitySB" value="1.0" />
+    <boolean name="pref_iconLabelsInTwoLines" value="false" />
+    <string name="pref_weather_units">metric</string>
+    <boolean name="pref_showAllAppsLabel" value="false" />
+    <float name="pref_searchbarRadius" value="-1.0" />
+    <boolean name="pref_hotseatShowPageIndicator" value="true" />
+    <boolean name="pref_cnbIntegration" value="false" />
+    <boolean name="pref_keepScrollState" value="false" />
+    <boolean name="pref_dockIconLabelsInTwoLines" value="false" />
+    <boolean name="pref_migratedSmartspace" value="true" />
+    <boolean name="pref_homeIconLabelsInTwoLines" value="false" />
+    <int name="pref_prediction_count_com.whatsapp/com.whatsapp.Main#0" value="31" />
+    <int name="pref_prediction_count_com.android.chrome/com.google.android.apps.chrome.Main#0" value="40" />
+    <boolean name="pref_twoRowDock" value="false" />
+    <boolean name="pref_hide_statusbar_clock" value="false" />
+    <float name="pref_dockRadius" value="6.0" />
+    <boolean name="opa_enabled" value="false" />
+    <boolean name="pref_allowOverlap" value="false" />
+</map>
